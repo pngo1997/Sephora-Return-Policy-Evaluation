@@ -1,0 +1,301 @@
+ProductID,SKU,ProductName,ProductType
+00001,1IHYOLXI,Foundation,Makeup
+00002,B50GBOD5,Serum,Skincare
+00003,ILJCVBZH,Highlighter,Makeup
+00004,2HIXEKDV,Conditioner,Haircare
+00005,W56H2A4J,Texture Spray,Haircare
+00006,AY0JNAN6,Texture Spray,Haircare
+00007,IMJAR8FN,Hair Mask,Haircare
+00008,N58LEQ36,Conditioner,Haircare
+00009,9KSV70T4,Exfoliator,Skincare
+00010,EWZ5DU90,Blush,Makeup
+00011,INCXOFA8,Exfoliator,Skincare
+00012,XON7Z752,Serum,Skincare
+00013,65FGW0AE,Toner,Skincare
+00014,BXLAWUHM,Toner,Skincare
+00015,TMVQJIU9,Blush,Makeup
+00016,5AW9C56X,Exfoliator,Skincare
+00017,UUBAGHZF,Toner,Skincare
+00018,W7MVV9FL,Highlighter,Makeup
+00019,5E0EGWS6,Hair Mask,Haircare
+00020,TRDKMX5F,Dry Shampoo,Haircare
+00021,GK32O00Q,Texture Spray,Haircare
+00022,VSH77N89,Eyeshadow,Makeup
+00023,9T8WMDZX,Foundation,Makeup
+00024,68BUHGRU,Hair Mask,Haircare
+00025,2ID3EJ3E,Texture Spray,Haircare
+00026,JIJ6KNC3,Eye Cream,Skincare
+00027,VMUWNPW1,Eye Cream,Skincare
+00028,3XO2RSP5,Hair Mask,Haircare
+00029,PAVH8RT6,Eyeshadow,Makeup
+00030,TBI39CWU,Shampoo,Haircare
+00031,ZDAEHM4Y,Serum,Skincare
+00032,125HLAK8,Toner,Skincare
+00033,A0X32O5J,Conditioner,Haircare
+00034,PNLBBQSX,Blush,Makeup
+00035,Z63ZDLZS,Conditioner,Haircare
+00036,8HBEY0WM,Lipstick,Makeup
+00037,QKPFQN4F,Lipstick,Makeup
+00038,AU88Y4OW,Blush,Makeup
+00039,8QIYRZTE,Blush,Makeup
+00040,BLLVT2WJ,Dry Shampoo,Haircare
+00041,NRXQOOS7,Foundation,Makeup
+00042,PU38BRPT,Blush,Makeup
+00043,3OGDH7YS,Blush,Makeup
+00044,WAXEF64E,Eye Cream,Skincare
+00045,B47B3KJW,Eyeshadow,Makeup
+00046,YGPZ3LIH,Toner,Skincare
+00047,GE5B8EZO,Lipstick,Makeup
+00048,EJ9PZ01O,Highlighter,Makeup
+00049,D7DDEQ01,Dry Shampoo,Haircare
+00050,WZ3L85P0,Serum,Skincare
+00051,6W4KCDEY,Moisturizer,Skincare
+00052,0XJCZBA0,Eyeshadow,Makeup
+00053,JMONVNYL,Foundation,Makeup
+00054,F77AK02S,Toner,Skincare
+00055,UWHI4MTM,Lipstick,Makeup
+00056,68Z0E18W,Conditioner,Haircare
+00057,8M5DDEP8,Exfoliator,Skincare
+00058,24EKID09,Texture Spray,Haircare
+00059,S4BNSXJO,Texture Spray,Haircare
+00060,K40B3CIK,Hair Mask,Haircare
+00061,A00G8CFG,Highlighter,Makeup
+00062,N9H6PL7Z,Blush,Makeup
+00063,NYEKUHLN,Lipstick,Makeup
+00064,6BFTNH5X,Serum,Skincare
+00065,RAAEGT34,Dry Shampoo,Haircare
+00066,EO6GOM8U,Lipstick,Makeup
+00067,QIWUL9HX,Exfoliator,Skincare
+00068,RLGTSEPC,Eyeshadow,Makeup
+00069,MO88A5EY,Foundation,Makeup
+00070,D8OVRO0X,Serum,Skincare
+00071,E65ISJGM,Shampoo,Haircare
+00072,O0DB187Q,Moisturizer,Skincare
+00073,OK147MPV,Serum,Skincare
+00074,FO3YCR0B,Dry Shampoo,Haircare
+00075,OLBFE337,Texture Spray,Haircare
+00076,1CC1FBXE,Blush,Makeup
+00077,ZN0HWWYD,Toner,Skincare
+00078,LTTM67WK,Toner,Skincare
+00079,ALNO69P0,Eyeshadow,Makeup
+00080,I0VQ6GNM,Shampoo,Haircare
+00081,SUMF8JX6,Exfoliator,Skincare
+00082,R6W2C775,Blush,Makeup
+00083,KKQG7EEJ,Serum,Skincare
+00084,TAG1ZU29,Blush,Makeup
+00085,YGBMGJWM,Shampoo,Haircare
+00086,9Y38APMY,Conditioner,Haircare
+00087,PGG56Y39,Moisturizer,Skincare
+00088,839FAJTD,Dry Shampoo,Haircare
+00089,H1STLK3M,Blush,Makeup
+00090,YKYMV123,Hair Mask,Haircare
+00091,JKRCLJ08,Conditioner,Haircare
+00092,CG6N1RYQ,Exfoliator,Skincare
+00093,JNX3POOU,Shampoo,Haircare
+00094,FACKDJCL,Exfoliator,Skincare
+00095,VCB0K1RQ,Shampoo,Haircare
+00096,CFW87CXP,Serum,Skincare
+00097,8P805BNT,Dry Shampoo,Haircare
+00098,OQT1RG2Y,Moisturizer,Skincare
+00099,4BNAU1MD,Conditioner,Haircare
+00100,57ISAF3G,Dry Shampoo,Haircare
+00101,7JGUA9AO,Foundation,Makeup
+00102,WIZ3TF84,Blush,Makeup
+00103,WEISMUJX,Toner,Skincare
+00104,9Z07T1O7,Foundation,Makeup
+00105,8QTCN26E,Foundation,Makeup
+00106,5SJ5D44E,Highlighter,Makeup
+00107,OPR4TJ8N,Blush,Makeup
+00108,00R1LP3A,Serum,Skincare
+00109,7CM06T1Y,Dry Shampoo,Haircare
+00110,6RI1OPMA,Dry Shampoo,Haircare
+00111,4FSC3K6F,Texture Spray,Haircare
+00112,F0Y5YXVT,Texture Spray,Haircare
+00113,CID8K9KK,Foundation,Makeup
+00114,JHIL272W,Toner,Skincare
+00115,ZWMMFSP8,Lipstick,Makeup
+00116,MIZCWA7L,Lipstick,Makeup
+00117,YTYGWDJF,Eye Cream,Skincare
+00118,R4N51SEV,Eye Cream,Skincare
+00119,8FZY1SBH,Dry Shampoo,Haircare
+00120,T1PH3JTX,Conditioner,Haircare
+00121,FHXJIFBI,Foundation,Makeup
+00122,AA42IHJA,Lipstick,Makeup
+00123,WIWO7JEW,Shampoo,Haircare
+00124,BBVD4U7T,Foundation,Makeup
+00125,4ZCNBWWQ,Eyeshadow,Makeup
+00126,C3M4P17C,Moisturizer,Skincare
+00127,3QU3VB10,Shampoo,Haircare
+00128,ZKUTGN3D,Conditioner,Haircare
+00129,KPEQHM8G,Eye Cream,Skincare
+00130,7N2KEZEU,Serum,Skincare
+00131,U4QAV0J4,Foundation,Makeup
+00132,PQQ1UT8X,Dry Shampoo,Haircare
+00133,R80WKKA3,Moisturizer,Skincare
+00134,H5Q83RYV,Eye Cream,Skincare
+00135,GVH2DMWP,Dry Shampoo,Haircare
+00136,2M69SAP8,Lipstick,Makeup
+00137,QA46J7VC,Foundation,Makeup
+00138,VURO6F09,Foundation,Makeup
+00139,8G0VPVRR,Shampoo,Haircare
+00140,I7IWU9EC,Eye Cream,Skincare
+00141,G7EB61KT,Eyeshadow,Makeup
+00142,G3LU0297,Moisturizer,Skincare
+00143,ZCWP4K9D,Exfoliator,Skincare
+00144,ZIEYNS7L,Texture Spray,Haircare
+00145,DOKDF33Q,Dry Shampoo,Haircare
+00146,BXVGIID2,Moisturizer,Skincare
+00147,LOUFXUXD,Highlighter,Makeup
+00148,KVDVAX5M,Highlighter,Makeup
+00149,1SRZHTY9,Highlighter,Makeup
+00150,MC151PM1,Exfoliator,Skincare
+00151,MH5V9TTG,Lipstick,Makeup
+00152,61AGRMXE,Shampoo,Haircare
+00153,P3MQRUPC,Hair Mask,Haircare
+00154,Q3MINP72,Serum,Skincare
+00155,4CYYTHKU,Foundation,Makeup
+00156,PHJEQ4K5,Shampoo,Haircare
+00157,7S8LV4LB,Lipstick,Makeup
+00158,8V9T2U88,Texture Spray,Haircare
+00159,471R8Q0X,Shampoo,Haircare
+00160,BXPUAOZT,Toner,Skincare
+00161,RH7VP15T,Texture Spray,Haircare
+00162,YL7NBQUC,Eyeshadow,Makeup
+00163,TN33LPOX,Conditioner,Haircare
+00164,2EHWFN2R,Blush,Makeup
+00165,WR6IF4QB,Moisturizer,Skincare
+00166,GNU63PHR,Highlighter,Makeup
+00167,3PKR86UJ,Lipstick,Makeup
+00168,JX83BWC8,Hair Mask,Haircare
+00169,2WL4N41T,Eye Cream,Skincare
+00170,A556KUXR,Eye Cream,Skincare
+00171,40DDLJ5S,Exfoliator,Skincare
+00172,FQG8RLBW,Foundation,Makeup
+00173,ISYNIX6B,Highlighter,Makeup
+00174,996ANEJ2,Toner,Skincare
+00175,BI5S13OD,Eyeshadow,Makeup
+00176,EWZW9F5H,Moisturizer,Skincare
+00177,H65CVBCH,Blush,Makeup
+00178,S4SFVLV7,Shampoo,Haircare
+00179,B8TZAFQ8,Serum,Skincare
+00180,4EU2GRTP,Dry Shampoo,Haircare
+00181,TAV51A53,Hair Mask,Haircare
+00182,KPM7165P,Exfoliator,Skincare
+00183,SPIGNS6A,Eye Cream,Skincare
+00184,16V6AATR,Highlighter,Makeup
+00185,1DA2TOPA,Eyeshadow,Makeup
+00186,Z4AV17ND,Shampoo,Haircare
+00187,7GOPCOLM,Hair Mask,Haircare
+00188,0FUV54FO,Texture Spray,Haircare
+00189,MXGO33BO,Shampoo,Haircare
+00190,IHM2W7LS,Toner,Skincare
+00191,IEF9F8MS,Eyeshadow,Makeup
+00192,N3CBIVY6,Serum,Skincare
+00193,S0FNPVZQ,Exfoliator,Skincare
+00194,7HIMQN60,Texture Spray,Haircare
+00195,KHRKYYOA,Moisturizer,Skincare
+00196,4SE7SFB8,Dry Shampoo,Haircare
+00197,3J8E39YL,Dry Shampoo,Haircare
+00198,QKYW03XZ,Shampoo,Haircare
+00199,J8ESIKXQ,Foundation,Makeup
+00200,TXRBQM63,Foundation,Makeup
+00201,DD3IX32A,Toner,Skincare
+00202,ZQNF86AR,Texture Spray,Haircare
+00203,07BL8YNL,Highlighter,Makeup
+00204,WLSPOGE6,Highlighter,Makeup
+00205,DJYT1KHM,Dry Shampoo,Haircare
+00206,80FMQV9K,Eye Cream,Skincare
+00207,XLXJN0U8,Texture Spray,Haircare
+00208,I75GR56X,Eye Cream,Skincare
+00209,WBHFINTN,Foundation,Makeup
+00210,XBWXRGJ4,Blush,Makeup
+00211,QF47ABV2,Shampoo,Haircare
+00212,C6FVAWC7,Hair Mask,Haircare
+00213,B28PELY1,Serum,Skincare
+00214,F1PWNLY6,Eye Cream,Skincare
+00215,VTBZCQQP,Texture Spray,Haircare
+00216,N74TLM2C,Eyeshadow,Makeup
+00217,9S19S4VP,Blush,Makeup
+00218,7W1V1W1B,Toner,Skincare
+00219,2ODPWMAH,Texture Spray,Haircare
+00220,NUG2VYA4,Highlighter,Makeup
+00221,PUTJQDTS,Serum,Skincare
+00222,BXT2S6K2,Conditioner,Haircare
+00223,KMOCWS25,Texture Spray,Haircare
+00224,MNG4HGIX,Conditioner,Haircare
+00225,L2U32WXB,Toner,Skincare
+00226,U4USOG4J,Foundation,Makeup
+00227,0NZGENFP,Shampoo,Haircare
+00228,681S8JDJ,Texture Spray,Haircare
+00229,TZJS8I2K,Exfoliator,Skincare
+00230,UEMEBZIP,Texture Spray,Haircare
+00231,OD46IA0D,Hair Mask,Haircare
+00232,45KN00O2,Lipstick,Makeup
+00233,MLRJGTBH,Highlighter,Makeup
+00234,X2L1PYTD,Serum,Skincare
+00235,82DZAIKG,Toner,Skincare
+00236,3SOXE186,Toner,Skincare
+00237,PDC21GO6,Shampoo,Haircare
+00238,IBYFAB1R,Serum,Skincare
+00239,TEYZCQB1,Texture Spray,Haircare
+00240,FEKQFOFV,Eyeshadow,Makeup
+00241,KE9U3HM4,Eye Cream,Skincare
+00242,OEY0OC0S,Highlighter,Makeup
+00243,FPAP188T,Blush,Makeup
+00244,LCOR6OBL,Dry Shampoo,Haircare
+00245,10K1XH62,Moisturizer,Skincare
+00246,MXYGM6FR,Texture Spray,Haircare
+00247,X7JL856D,Conditioner,Haircare
+00248,765T3BZ9,Blush,Makeup
+00249,TJ9L5Q1C,Eyeshadow,Makeup
+00250,3F3CFX4Q,Dry Shampoo,Haircare
+00251,6N536OK1,Hair Mask,Haircare
+00252,9P3JM8C2,Texture Spray,Haircare
+00253,KTSSVGDA,Eyeshadow,Makeup
+00254,R0DD7OWP,Toner,Skincare
+00255,LGTUBDWQ,Eyeshadow,Makeup
+00256,D71IRJWA,Hair Mask,Haircare
+00257,1MH9ZIV2,Moisturizer,Skincare
+00258,0YUS49UK,Toner,Skincare
+00259,WUTVTN9B,Conditioner,Haircare
+00260,S0RNUGFC,Blush,Makeup
+00261,QK0ZJ7XP,Dry Shampoo,Haircare
+00262,W6IR6IWN,Eye Cream,Skincare
+00263,3Z28JSVS,Texture Spray,Haircare
+00264,C2B6963W,Texture Spray,Haircare
+00265,7XL870T3,Serum,Skincare
+00266,FN037HU7,Shampoo,Haircare
+00267,G59EMHH2,Conditioner,Haircare
+00268,UDWQ6XMT,Foundation,Makeup
+00269,KGCMQEX8,Dry Shampoo,Haircare
+00270,SLFQ95SS,Shampoo,Haircare
+00271,IQAOXXA2,Conditioner,Haircare
+00272,SLLORB5Y,Eye Cream,Skincare
+00273,QY9U9W5J,Conditioner,Haircare
+00274,DLFGYNZF,Hair Mask,Haircare
+00275,WPCMGQTX,Conditioner,Haircare
+00276,P1T7FFW4,Lipstick,Makeup
+00277,WOV5VDKD,Dry Shampoo,Haircare
+00278,51LOK9B2,Serum,Skincare
+00279,1E0JK252,Dry Shampoo,Haircare
+00280,MMQL39PA,Serum,Skincare
+00281,EGOUKLVB,Blush,Makeup
+00282,UG55DFFF,Highlighter,Makeup
+00283,2RV8HVGS,Lipstick,Makeup
+00284,C1NN9FRI,Texture Spray,Haircare
+00285,B9SU03IG,Moisturizer,Skincare
+00286,7MBJUFMK,Eyeshadow,Makeup
+00287,SLZIBNJK,Toner,Skincare
+00288,B2BF3YOR,Dry Shampoo,Haircare
+00289,C5UAGPV6,Dry Shampoo,Haircare
+00290,FCXGC1KJ,Moisturizer,Skincare
+00291,N1O40YRW,Lipstick,Makeup
+00292,O7N8JXTQ,Serum,Skincare
+00293,Q7F4Q7O5,Hair Mask,Haircare
+00294,XPD38RAZ,Lipstick,Makeup
+00295,JI5E21LN,Blush,Makeup
+00296,8E7FWWVR,Blush,Makeup
+00297,PUY0AWXJ,Conditioner,Haircare
+00298,YGJS6M0E,Dry Shampoo,Haircare
+00299,QAZ64W52,Blush,Makeup
+00300,XGI14GYO,Serum,Skincare

@@ -1,0 +1,101 @@
+SupplierID, SupplierName, AccountManager, ContactInfo, Address
+00001,Amika,Amelia Christopher,309-833-5243,VA
+00002,Anastasia Beverly Hills,Christopher Evelyn,246-741-2598,TN
+00003,BareMinerals,Evelyn Benjamin,243-443-9689,KS
+00004,Beautyblender,Benjamin Olivia,723-696-2056,WI
+00005,Belif,Olivia William,443-267-6985,ID
+00006,Benefit Cosmetics,William Sophia,440-812-3014,MA
+00007,Biossance,Sophia Daniel,526-866-2861,MN
+00008,Bobbi Brown,Daniel Ava,439-293-8075,ID
+00009,Bumble and bumble,Ava James,747-522-9326,AZ
+00010,Buxom,James Isabella,248-878-9652,MO
+00011,Caudalie,Isabella David,137-595-2782,MN
+00012,Charlotte Tilbury,David Charlotte,109-397-9668,MD
+00013,Clarins,Charlotte Andrew,455-188-7414,ID
+00014,Clinique,Andrew Mia,250-570-3861,MD
+00015,Coola,Mia Matthew,228-392-3908,TN
+00016,Crown Affair,Matthew Harper,928-913-1810,IL
+00017,Dae,Harper Joseph,511-754-7075,PA
+00018,Dr. Barbara Sturm,Joseph Evelyn,565-449-3600,MN
+00019,Dr. Dennis Gross Skincare,Evelyn Michael,612-256-4216,ID
+00020,Dr. Jart+,Michael Aaliyah,538-675-7277,UT
+00021,Drunk Elephant,Aaliyah Joshua,228-399-1355,CA
+00022,Elemis,Joshua Amelia,645-648-4466,CO
+00023,Estée Lauder,Amelia Ethan,746-753-5531,CT
+00024,Fable & Mane,Ethan Avery,461-427-2636,MD
+00025,FaceGym,Avery Nicholas,442-825-5998,MS
+00026,Fenty Beauty by Rihanna,Nicholas Riley,553-374-1540,IN
+00027,Fenty Skin,Riley Alexander,691-683-4190,KY
+00028,First Aid Beauty,Alexander Zoey,369-283-3869,FL
+00029,Foreo,Zoey Anthony,606-696-6073,UT
+00030,Fresh,Anthony Layla,903-742-4780,WI
+00031,Gisou,Layla Dylan,399-201-6321,TN
+00032,Glossier,Dylan Luna,940-778-3127,IA
+00033,Glow Recipe,Luna Zachary,153-383-4086,NJ
+00034,Goop,Zachary Nora,929-920-3245,MI
+00035,Guerlain,Nora Gabriel,169-380-4934,OR
+00036,Haus Labs by Lady Gaga,Gabriel Mila,869-371-5125,DC
+00037,Hourglass,Mila Logan,139-402-2057,MO
+00038,Huda Beauty,Logan Scarlett,480-178-4083,MI
+00039,Ilia,Scarlett Jacob,927-312-8707,MA
+00040,Innisfree,Jacob Elizabeth,451-779-7102,AL
+00041,IT Cosmetics,Elizabeth Mason,476-548-7206,OR
+00042,JVN,Mason Eleanor,729-756-9592,LA
+00043,K18 Biomimetic Hairscience,Eleanor Noah,946-322-2679,VA
+00044,Kaja,Noah Penelope,498-912-9073,FL
+00045,Kate Somerville,Penelope Elijah,471-620-5066,DE
+00046,Kérastase,Elijah Sadie,544-481-2714,IA
+00047,Kiehl's Since 1851,Sadie Jackson,532-233-1438,MO
+00048,Kora Organics,Jackson Stella,984-714-9728,NM
+00049,Kosas,Stella Aiden,300-189-6682,CT
+00050,KVD Beauty,Aiden Violet,604-253-9894,HI
+00051,L'Oréal Professionnel,Violet Lucas,494-643-1552,OK
+00052,La Mer,Lucas Claire,134-889-4877,SC
+00053,Lancôme,Claire Ryan,802-940-2307,CO
+00054,Laneige,Ryan Aurora,404-733-1703,ID
+00055,Laura Mercier,Aurora John,671-115-9716,CA
+00056,Living Proof,John Audrey,206-265-1295,OH
+00057,Make Up Forever,Audrey Owen,833-218-4505,SC
+00058,Makeup By Mario,Owen Everly,323-468-6537,MD
+00059,Mario Badescu,Everly Daniel,878-530-8770,DC
+00060,Merit,Daniel Camila,300-109-6057,GA
+00061,Milk Makeup,Camila Carter,862-112-3183,IN
+00062,Moroccanoil,Carter Ensley,412-254-6688,VA
+00063,Murad,Ensley Caleb,117-833-9332,WI
+00064,Nars,Caleb Josephine,762-911-2666,TN
+00065,Nudestix,Josephine Grayson,501-651-5247,VA
+00066,Olaplex,Grayson Oakley,105-543-8593,CO
+00067,Olehenriksen,Oakley Charlie,484-192-6238,WA
+00068,One/Size by Patrick Starrr,Charlie Zara,684-132-1634,OH
+00069,The Ordinary,Zara Benjamin,572-580-9465,MO
+00070,Oribe,Benjamin Sofia,757-949-3218,ID
+00071,Origins,Sofia Henry,945-885-7480,AL
+00072,Ouai,Henry Emilia,212-772-6183,PR
+00073,Pat McGrath Labs,Emilia Liam,827-391-9371,OK
+00074,Patrick Ta,Liam Charlotte,887-693-4252,RI
+00075,Paula's Choice,Charlotte William,147-629-3272,PR
+00076,Peter Thomas Roth,William Ava,808-841-1426,OR
+00077,Rare Beauty by Selena Gomez,Ava James,740-421-6846,NV
+00078,Refy,James Isabella,477-561-5626,NM
+00079,Saie,Isabella Jackson,639-552-3493,PA
+00080,Sephora Collection,Jackson Mia,798-579-7085,DE
+00081,Shiseido,Mia Mason,999-958-6421,PA
+00082,Shu Uemura,Mason Harper,246-795-1180,NY
+00083,SK-II,Harper Ethan,174-693-7933,ME
+00084,Skinfix,Ethan Evelyn,804-968-3230,MN
+00085,Smashbox,Evelyn Alexander,503-301-7152,NM
+00086,Sol de Janeiro,Alexander Aaliyah,887-580-4975,NV
+00087,Sulwhasoo,Aaliyah Michael,837-798-9010,IA
+00088,Summer Fridays,Michael Amelia,611-177-9274,MS
+00089,Sunday Riley,Amelia Joshua,647-818-3099,ID
+00090,Supergoop!,Joshua Avery,859-138-6344,OR
+00091,Tarte,Avery Daniel,329-436-2055,CA
+00092,Tatcha,Daniel Riley,650-896-5696,NC
+00093,Too Faced,Riley Anthony,371-480-9061,VA
+00094,Tom Ford,Anthony Zoey,774-951-8709,TN
+00095,Tower 28 Beauty,Zoey David,738-501-8279,OH
+00096,Tula Skincare,David Layla,501-593-9403,NV
+00097,Urban Decay,Layla Matthew,815-414-7865,NV
+00098,Vegamour,Matthew Luna,680-516-1490,NC
+00099,Virtue,Luna Joseph,808-139-6132,PR
+00100,Youth To The People,Joseph Price,600-524-7853,WA
